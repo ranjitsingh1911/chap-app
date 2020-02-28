@@ -31,7 +31,7 @@ label {
     color: #777;
 }
 
-input {
+input,select {
     border: 1px solid #eeeeee;
     padding: 12px;
     outline: none;
@@ -78,7 +78,7 @@ button:disabled {
     width: 100%;
 }
 
-.centered-form input {
+.centered-form input,select {
     margin-bottom: 16px;
     width: 100%;
 }
